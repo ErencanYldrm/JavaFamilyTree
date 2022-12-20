@@ -1,0 +1,17 @@
+﻿15;Furkan;Çelik;1/01/1941;Zeynep Koç;null;null;0(-);Terzi;Evli;;Erkek
+16;Zeynep;Çelik;7/06/1945;Furkan Çelik;null;null;AB(+);Ev Hanımı;Evli;Koç;Kadın
+17;Halime;Kurt;5/05/1965;Faruk Kurt;Zeynep;Furkan;AB(+);Ev Hanımı;Evli;Çelik;Kadın
+18;Gül;Özkan;4/02/1968;Hasan Özkan;Zeynep;Furkan;0(+);Muhasebeci;Evli;Çelik;Kadın
+19;Bekir;Çelik;11/10/1970;Kübra Döndü;Zeynep;Furkan;B(-);Terzi;Evli;;Erkek
+20;Semra;Aslan;10/11/1988;Mahmut Aslan;Halime;Faruk;B(-);Ev Hanımı;Evli;Kurt;Kadın
+21;Yaşar;Kurt;9/08/1990;Esra Sarı;Halime;Faruk;AB(+);Mühendis;Evli;;Erkek
+22;Orhan;Özkan;2/01/1990;Feride Özcan;Gül;Hasan;0(-);Terzi;Evli;;Erkek
+23;Necmi;Özkan;7/02/1992;Gökçe Ünlü;Gül;Hasan;A(+);Polis;Evli;;Erkek
+24;Ahmet;Çelik;27/06/1992;Defne Demir;Kübra;Bekir;B(-);Avukat;Evli;;Erkek
+12;İrem;Çelik;9/09/2009;;Defne;Ahmet;A(+);Öğrenci;Bekar;;Kadın
+25;Yusuf;Özkan;9/04/2016;;Gökçe;Necmi;0(+);;Bekar;;Erkek
+26;Furkan;Özkan;29/11/2018;;Gökçe;Necmi;A(+);;Bekar;;Erkek
+27;Merve;Özkan;10/10/2017;;Feride;Orhan;B(-);;Bekar;;Kadın
+28;Ahmet;Kurt;8/04/2014;;Esra;Yaşar;A(+);Öğrenci;Bekar;;Erkek
+29;Almila;Kurt;14/02/2016;;Esra;Yaşar;AB(+);;Bekar;;Kadın
+30;Yılmaz;Aslan;17/10/2012;;Semra;Mahmut;0(-);Öğrenci;Bekar;;Erkek

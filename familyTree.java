@@ -82,10 +82,10 @@ public class familyTree {
 
         // ; ile ayrılmış 4 excel dosyası okunacak
         try {
-            ft.addPersonToArray("dosya1.csv", ft.getFamily1());
-            ft.addPersonToArray("dosya2.csv", ft.getFamily2());
-            ft.addPersonToArray("dosya3.csv", ft.getFamily3());
-            ft.addPersonToArray("dosya4.csv", ft.getFamily4());
+            ft.addPersonToArray("Prolab 3.csv", ft.getFamily1());
+            ft.addPersonToArray("Prolab 3 2.csv", ft.getFamily2());
+            ft.addPersonToArray("Prolab 3 3.csv", ft.getFamily3());
+            ft.addPersonToArray("Prolab 3 4.csv", ft.getFamily4());
         } catch (Exception e) {
             System.out.println(e);
         }
